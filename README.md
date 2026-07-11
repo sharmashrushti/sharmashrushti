@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="undraw_budgeting_klon.png" width="450"/>
+</p>
 <!--
 **sharmashrushti/sharmashrushti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
