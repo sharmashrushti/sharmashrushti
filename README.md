@@ -22,9 +22,6 @@
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sharmashrushti&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
-## 👩‍💼 About Me
-
-Hello, 
-
-I'm Shrushti. 
