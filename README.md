@@ -23,4 +23,8 @@
 </a>
 
 </p>
+## 👩‍💼 About Me
 
+Hello, 
+
+I'm Shrushti. 
