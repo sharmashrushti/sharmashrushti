@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://chatgpt.com/s/m_6a52178854608191a362a95af397b5d3"
-  width="250">
-</p>
 
 <!--
 **sharmashrushti/sharmashrushti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
