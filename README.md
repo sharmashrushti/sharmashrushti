@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="undraw_budgeting_klon.png" width="450"/>
+  <img src="https://github.com/sharmashrushti/sharmashrushti/blob/main/profile-bg.svg" width="450"/>
 </p>
 
 <h1 align="center">Shrushti Sharma</h1>
