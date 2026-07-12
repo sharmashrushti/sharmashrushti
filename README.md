@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/sharmashrushti/sharmashrushti/blob/main/A4DA3141-2D93-442F-8178-E77D9ECAA514.png" width="450"/>
+  <img src="https://github.com/sharmashrushti/sharmashrushti/blob/main/EC6B2B09-7D8A-41B4-936C-53206D627AB8.png" width="450"/>
 </p>
 
 <h1 align="center">Shrushti Sharma</h1>
