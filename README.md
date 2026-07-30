@@ -25,3 +25,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharmashrushti&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
+
+## 👩‍💻 About Me
+
+I'm an MSc student in Finance and Investment at the [University of Edinburgh Business School](https://www.business-school.ed.ac.uk/), The University of Edinburgh. 
