@@ -26,6 +26,15 @@
   <img src="https://komarev.com/ghpvc/?username=sharmashrushti&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
+## 🧑‍💻 About Me
+
+I'm a frontend developer who loves turning ideas into fast, accessible, and delightful user experiences. My world revolves around the React ecosystem - from building responsive web apps to crafting cross-platform mobile experiences with React Native.
+
+- 🔭 Currently working at **Intuit** as a Software Engineer
+- ⚛️ Deeply invested in **React**, **Redux**, and **React Hooks**
+- 🤝 Contributed to open source projects like **NativeBase** and **Svelte Admin Dashboard**
+- 💬 Ask me about anything React, JavaScript, or mobile-first UI
+
 ### 🧰 Tech Stack
 
 **Languages** 
