@@ -32,7 +32,7 @@ Hello,
 
 I'm Shrushti.
 
-I'm an MSc Finance and Investment student at The University of Edinburgh. I did my Bachelor of Commerce (Honours Course) at Kamala Nehru College for Women, University of Delhi. My research interests are in computational finance, data science and ML. 
+I'm an MSc Finance and Investment student at The University of Edinburgh. I did my Bachelor of Commerce (Honours Course) at the University of Delhi. My research interests are in computational finance, data science and ML. 
 
 ### 🧰 Tech Stack
 
