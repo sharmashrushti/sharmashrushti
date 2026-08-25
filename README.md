@@ -28,12 +28,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm a frontend developer who loves turning ideas into fast, accessible, and delightful user experiences. My world revolves around the React ecosystem - from building responsive web apps to crafting cross-platform mobile experiences with React Native.
+Hello,
 
-- 🔭 Currently working at **Intuit** as a Software Engineer
-- ⚛️ Deeply invested in **React**, **Redux**, and **React Hooks**
-- 🤝 Contributed to open source projects like **NativeBase** and **Svelte Admin Dashboard**
-- 💬 Ask me about anything React, JavaScript, or mobile-first UI
+I'm Shrushti.
+
+I'm an MSc Finance and Investment student at The University of Edinburgh. I did my Bachelor of Commerce (Honours Course) at Kamala Nehru College for Women, University of Delhi. My research interests are in computational finance, data science and ML. 
 
 ### 🧰 Tech Stack
 
