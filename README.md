@@ -5,7 +5,7 @@
 <h1 align="center">Shrushti Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Monetary+Policy+|+Empirical+Asset+Pricing+|+Computational+Finance+|+Data+Science+|+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=800&lines=Monetary+Policy+|+Empirical+Asset+Pricing+|+Computational+Finance+|+Data+Science+|+ML" alt="Typing SVG" />
 </p>
 
 <p align="center">
