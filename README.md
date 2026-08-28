@@ -32,7 +32,7 @@ Hello,
 
 I'm Shrushti.
 
-I'm an MSc Finance and Investment student at The University of Edinburgh. I did my Bachelor's at the University of Delhi. My research interests are in computational finance, data science and ML. 
+I'm doing my Master's of Science in Finance and Investment student at The University of Edinburgh, and before that, I did my Bachelor's at the University of Delhi. My research interests are in monetary policy, empirical asset pricing, computational finance, data science and ML. 
 
 ### 🧰 Tech Stack
 
