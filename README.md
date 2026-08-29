@@ -51,3 +51,4 @@ I'm doing my Master's of Science in Finance and Investment at The University of 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-0D9488?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
