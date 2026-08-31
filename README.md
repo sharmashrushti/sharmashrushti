@@ -2,7 +2,7 @@
   <img src="https://github.com/sharmashrushti/sharmashrushti/blob/main/185EC590-9EC8-496D-AF7C-E0D0C6B4589D.png" width="450"/>
 </p>
 
-<h1 align="center">Shrushti Sharma</h1>
+<h1 align="center">Shrushti Sharma</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=2500&pause=1000&color=4FC3F7&center=true&vCenter=true&width=999&lines=Aspiring+Academic" alt="Typing SVG" />
