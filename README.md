@@ -32,7 +32,7 @@ Hello,
 
 I'm Shrushti.
 
-I'm an incoming student for the Master's of Science in Finance and Investment programme at The University of Edinburgh, and before that, I did my Bachelor's at the University of Delhi. My research interests are in household finance, behavioral finance, empirical asset pricing and machine learning in finance. 
+I'm doing Master's of Science in Finance and Investment programme at The University of Edinburgh, and before that, I did my Bachelor's at the University of Delhi. My research interests are in household finance, behavioral finance, empirical asset pricing and machine learning in finance. 
 
 ### 🧰 Tech Stack
 
